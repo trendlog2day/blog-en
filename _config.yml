@@ -65,7 +65,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: G-KV97CW914R # fill in your Google Analytics ID
+    id: G-C0X1RVQ7NM # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
